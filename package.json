@@ -1,0 +1,20 @@
+{
+  "name": "Borikatsu",
+  "version": "1.0.0",
+  "description": "About me",
+  "main": "README.md",
+  "repository": "https://github.com/borikatsu/borikatsu.git",
+  "author": "Borikatsu <borikatsu3@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "textlint docs/README.md",
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./.pdf-config/config.js"
+  },
+  "devDependencies": {
+    "md-to-pdf": "^5.2.4",
+    "textlint": "^13.3.3",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-preset-ja-spacing": "^2.3.0",
+    "textlint-rule-preset-ja-technical-writing": "^8.0.0"
+  }
+}
