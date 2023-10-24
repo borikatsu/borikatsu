@@ -9,9 +9,9 @@
 
 ### 👨 Social
 
-![x-badge] ![linkedin-badge] ![github-badge]
+[![Twitter][x-badge]](https://twitter.com/borikatsu3) [![Linkedin][linkedin-badge]](https://www.linkedin.com/in/nishiborikatsuo/) [![GitHub][github-badge]](https://github.com/borikatsu)
 
-[x-badge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[x-badge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
