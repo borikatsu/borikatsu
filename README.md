@@ -1,4 +1,4 @@
-### 🐟 About me
+## 🐟 About me
 
 [![About me][about-badge]](https://bento.me/borikatsu)
 
@@ -7,7 +7,7 @@
 [about-badge]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 [stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=borikatsu&theme=blue-green
 
-### 👨 Social
+## 👨 Social
 
 [![Twitter][x-badge]](https://twitter.com/borikatsu3) [![Linkedin][linkedin-badge]](https://www.linkedin.com/in/nishiborikatsuo/) [![GitHub][github-badge]](https://github.com/borikatsu)
 
@@ -15,7 +15,7 @@
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
-### 🚀 Skills
+## 🚀 Skills
 
 ![php-badge] ![java-badge] ![kotlin-badge] ![js-badge] ![ts-badge] ![python-badge]
 
@@ -40,13 +40,13 @@
 [aws-badge]: https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 [linux-badge]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
-### 📝 Blogs
+## 📝 Blogs
 
 [![devto-badge][devto-badge]](https://dev.to/borikatsu)
 
 [devto-badge]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
 
-### 👨‍💻 Business
+## 👨‍💻 Business
 
 [![MENTA][menta-badge]](https://menta.work/plan/11072)
 
