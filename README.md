@@ -29,7 +29,7 @@
 [ts-badge]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-![laravel-badge] ![spring-badge] ![springboot-badge] ![react-badge] ![next-badge] ![node-badge]
+![laravel-badge] ![spring-badge] ![springboot-badge] ![react-badge] ![next-badge] ![node-badge] ![django-badge]
 
 [laravel-badge]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [spring-badge]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
@@ -37,6 +37,7 @@
 [react-badge]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [next-badge]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [node-badge]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[django-badge]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 
 ![mysql-badge] ![oracle-badge] ![aws-badge] ![linux-badge] ![centos-badge] ![docker-badge] ![kubernetes-badge]
 

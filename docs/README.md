@@ -37,14 +37,14 @@
 
 ### 総合
 
-チームマネジメント ｜ ドキュメンテーション ｜ システムアーキテクトデザイン ｜ サイト信頼性エンジニアリング ｜ Eコマース
+チームマネジメント ｜ Webアプリケーション開発 ｜ ドキュメンテーション ｜ システムアーキテクトデザイン ｜ テスト計画 ｜ サイト信頼性エンジニアリング
 
 ### 言語
 
 | 言語       | 経験年数 | レベル                 |
 | ---------- | -------- | ---------------------- |
 | PHP        | 5年以上  | メンバーに指導ができる |
-| Java       | 2年以上  | 業務で即戦力になれる   |
+| Java       | 2年以上  | メンバーに指導ができる   |
 | Kotlin     | 1年以上  | 業務で即戦力になれる   |
 | JavaScript | 5年以上  | メンバーに指導ができる |
 | TypeScript | 1年以上  | 業務で即戦力になれる   |
@@ -59,7 +59,9 @@
 | Spring WebFlux       | 2年以上  | メンバーに指導ができる |
 | Spring Data JPA      | 1年以上  | メンバーに指導ができる |
 | Spring Cloud Gateway | 1年以上  | 業務で即戦力になれる   |
-| Next.js              | 1年以上  | 使用経験がある         |
+| React.js             | 1年以上  | 使用経験がある         |
+| Next.js              | 1年以上  | 業務で即戦力になれる   |
+| Django               | 1年未満  | 使用経験がある         |
 
 ### データベース
 
@@ -72,7 +74,7 @@
 
 #### AWS
 
-EC2 ｜ ECS ｜ ECR ｜ Lambda ｜ SQS ｜ Aurora ｜ RDS ｜ DynamoDB ｜ S3 ｜ API Gateway ｜ CloudFront ｜ CloudWatch ｜ CloudFormation
+EC2 ｜ ECS ｜ ECR ｜ Lambda ｜ ELB ｜ API Gateway ｜ CloudFront ｜ S3 ｜ RDS ｜ DynamoDB ｜ Kinesis ｜ SQS ｜SNS ｜ CloudWatch ｜ CloudFormation ｜ IAM
 
 #### コンテナ
 
@@ -135,11 +137,11 @@ GitHub ｜ Locust ｜ OpenAPI
 
 ###### 開発
 
-GitHub ｜ git flow ｜ github flow ｜ ScrewDriver ｜ Chef ｜ Ansible
+GitHub ｜ git flow ｜ github flow ｜ Chef ｜ Ansible ｜ 社内開発ツール
 
 ###### 運用
 
-Splunk ｜ Grafana ｜ PagerDuty
+Splunk ｜ Grafana ｜ PagerDuty ｜ 社内運用ツール
 
 ##### 【業務詳細情報】
 
@@ -325,7 +327,7 @@ Eコマースサービスにおける「注文情報」に対するCRUD操作を
 
 ###### AWS
 
-EC2 ｜ ECS(Fargate) ｜ ECR ｜ Lambda ｜ SQS ｜ SNS ｜ SES ｜ Aurora ｜ RDS ｜ DynamoDB ｜ S3 ｜ CloudFront ｜ API Gateway ｜ IAM ｜ Cognito ｜ CloudWatch ｜ CloudFormation ｜ Glue ｜ Athena ｜ IoT Core ｜ Elemental MediaConvert
+EC2 ｜ ECS(Fargate) ｜ ECR ｜ Lambda ｜ ELB ｜ API Gateway ｜ CloudFront ｜ S3 ｜ RDS ｜ DynamoDB ｜ Kinesis ｜ Glue ｜ Athena ｜ SQS ｜SNS ｜ SES ｜ CloudWatch ｜ CloudFormation ｜ IAM ｜ Cognito ｜ IoT Core ｜ Elemental MediaConvert
 
 ###### 開発
 
