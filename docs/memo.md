@@ -2,3 +2,4 @@
 
 - Chrome
 - VSCode
+- wsl2
