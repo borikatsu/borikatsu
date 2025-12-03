@@ -3,3 +3,4 @@
 - Chrome
 - VSCode
 - wsl2
+- chatGPT
