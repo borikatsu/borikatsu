@@ -4,6 +4,7 @@
 
 - Chrome
 - VSCode
+- Rancher Desktop
 - Terminal
 - WSL2
 - keypass
@@ -51,6 +52,32 @@ $ git config --global user.name "borikatsu"
 $ git config --global user.email "xxxx"
 ```
 
+### java
+
+```bash
+$ sudo apt install openjdk-25-jdk -y
+
+$ vi ~/.bash_profile
+# java
+export JAVA_HOME=/usr/lib/jvm/java-25-openjdk-amd64
+```
+
+### node
+
+<https://github.com/nvm-sh/nvm>
+
+```bash
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+
+# インストール可能バージョン一覧
+$ nvm ls-remote
+
+$ nvm install v24.12.0
+
+# yarn
+$ npm install -g yarn
+```
+
 ## Windows 設定
 
 ### Terminal
@@ -81,3 +108,7 @@ Start-Service -Name ssh-agent
 1. エントリー→「詳細設定」の添付ファイルに秘密鍵を設定
 1. エントリー→「SSHエージェント」の添付ファイルに秘密鍵を設定
 1. アプリケーション設定→「SSHエージェント」のOpebSSHを使用するにチェック
+
+### Rancher Desktop
+
+<https://rancherdesktop.io/>
